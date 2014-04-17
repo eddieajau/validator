@@ -1,0 +1,16 @@
+{
+	"name": "eddieajau/validator",
+	"type": "joomla-package",
+	"description": "Joomla Framework Validator Package",
+	"keywords": ["joomla", "framework", "validate", "validation", "validator"],
+	"homepage": "https://github.com/eddieajau/validator",
+	"license": "LGPL-2.1+",
+	"require": {
+		"php": ">=5.3.10"
+	},
+	"autoload": {
+		"psr-4": {
+			"Joomla\\Validator\\": "src/"
+		}
+	}
+}
