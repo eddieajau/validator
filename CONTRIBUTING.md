@@ -31,12 +31,12 @@ Run the code sniffer with the [Joomla](https://github.com/joomla/coding-standard
 
 Create an annotated tag for the version number (no prefix or suffix). Use the full [SemVer](http://semver.org) number.
 
-```bash
+```sh
 $ git tag -a 1.0.0 -m "Tagging version 1.0.0"
 ```
 
 Push the tag to the repository.
 
-```bash
+```sh
 $ git push --tags origin
 ```
