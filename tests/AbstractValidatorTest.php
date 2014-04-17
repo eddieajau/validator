@@ -138,7 +138,7 @@ class AbstractValidatorTest extends \PHPUnit_Framework_TestCase
 	 *
 	 * @return  mixed
 	 *
-	 * @since  __DEPLOY_VERSION__
+	 * @since  1.0
 	 */
 	protected function invoke($methodName)
 	{
