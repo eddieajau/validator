@@ -4,4 +4,3 @@ description: 'The description'
 name: Validator Package for the Joomla Framework
 markdown: redcarpet
 pygments: true
-exclude: [api]
