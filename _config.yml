@@ -1,0 +1,7 @@
+title: Validator
+tagline: 'A simple PHP validator package.'
+description: 'The description'
+name: Validator Package for the Joomla Framework
+markdown: redcarpet
+pygments: true
+exclude: [api]
