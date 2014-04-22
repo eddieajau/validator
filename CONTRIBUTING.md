@@ -40,3 +40,9 @@ Push the tag to the repository.
 ```sh
 $ git push --tags origin
 ```
+
+Rebuild the API documentation in the `gh-pages` branch (assumes `sami` is an executable PHP file in your path).
+
+```sh
+$ sami update sami.php
+```
